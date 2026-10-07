@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# 项目产物（本仓库只放 skill 本体，不含任何项目的成片/参考帧）
+_旧版_*/
+MMDD/
+*.mp4
+*.mov
